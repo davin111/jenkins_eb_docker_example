@@ -1,0 +1,14 @@
+
+# Elastic Beanstalk Files
+.docker/.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+.idea
+node_modules
+package-lock.json
+build
+
+# Logs
+log
+*.log
