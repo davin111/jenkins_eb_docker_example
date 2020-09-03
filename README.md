@@ -1,3 +1,7 @@
+## Nginx + Nodejs
+
+#### 선행 학습 - https://github.com/hotehrud/jenkins_docker_example
+
 #### 디렉토리 구성
 <pre>
  ┬  
